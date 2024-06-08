@@ -1,0 +1,6 @@
+openai==0.28
+tiktoken
+langchain==0.2.3
+langchain-community==0.2.4
+pandas
+jupyter

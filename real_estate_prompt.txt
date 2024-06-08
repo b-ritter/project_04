@@ -1,0 +1,15 @@
+Example:
+
+Neighborhood: Green Oaks
+Price: $800,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 2,000 sqft
+House Type: Single-Family Home
+Description: Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.
+
+=====
+
+Using the example above as a template, create three realistic real estate listings for the {neighborhood} in {region}, {state}. Vary the price of the house, square footage and price. Make sure to include a range of house types, from condominiums, to multi-family dwellings to single family homes. Include description of school options. Include access to public transportation and major highways. Include proximity to outdoor activities such as beaches, hiking and boating. Include proximity to nearby conveniences like major shopping malls, restaurants and shopping districts. Limit description total response to less than 500 words.
+
+{format_instructions}
